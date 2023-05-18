@@ -1,5 +1,4 @@
 from yaml import safe_load
-import json
 
 class Container:
     def __init__(self):
