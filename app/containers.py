@@ -15,6 +15,5 @@ class Container:
 
     db = property(get_db)
     sheet = property(get_sheet)
-    print()
 
 
